@@ -6,7 +6,7 @@ DO NOT COPY OR PEEK CODE FROM THIS REPO, WHICH DEFINITELY WOULD BE CONSIDERED AS
 
 HomePage of CS61a fa20: https://inst.eecs.berkeley.edu/~cs61a/fa20/
 
-Where we are in Course Map?
+Where are we in Course Map?
 
 ![Course Map](./CS61a.png)
 
@@ -26,4 +26,4 @@ Solution:
 Same issue with lab12.
 
 Solution:
-Simply coping `sqlite_shell.py` from hw09 to directory `/lab12` resolves this issue.
+Simply copying `sqlite_shell.py` from hw09 to directory `/lab12` resolves this issue.
